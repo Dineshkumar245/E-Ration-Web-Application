@@ -28,6 +28,7 @@ echo "<script>alert('User Name Password Wrong.....')</script>";
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>E-RationShop</title>
+<meta name="google-site-verification" content="AwwgGbC1wiW6ZqegHjSMWHVqoV4OwB7kGwTGpSEv47Q" />
 <meta name="keywords" content="free templates, Business Website, Free CSS Template, CSS, HTML" />
 <meta name="description" content="Business Template is a free css template provided by templatemo.com" />
 <link href="templatemo_style.css" rel="stylesheet" type="text/css" />
