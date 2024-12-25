@@ -26,7 +26,6 @@ echo "<script>alert('User Name Password Wrong.....')</script>";
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta name="google-site-verification" content="AwwgGbC1wiW6ZqegHjSMWHVqoV4OwB7kGwTGpSEv47Q" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>E-RationShop</title>
 <meta name="keywords" content="free templates, Business Website, Free CSS Template, CSS, HTML" />
