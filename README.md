@@ -7,16 +7,13 @@ The E-Ration Web Application streamlines the management of ration distribution. 
 
 # Portals and Features
 <H2>1)Administrator Portal</H2>
-<HR>
 The Administrator portal serves as the control hub for managing ration shops across the system.
 
 Features:
-
 *Add Ration Shops:
 Admins can register new ration shops by entering details such as the shop's name and with a password.
 
 <H2>2)Ration Shop Employee Portal</H2>
-<HR>
 The Employee portal enables shop employees to manage shop-specific operations effectively.
 
 Features:
@@ -31,7 +28,6 @@ Add new citizen details and assign them to the shop for ration distribution.
 Record absence in case of emergencies along with the date.
 
 <H2>3)Citizen Portal</H2>
-<HR>
 The Citizen portal allows users to check shop and ration-related information.
 
 Features:
