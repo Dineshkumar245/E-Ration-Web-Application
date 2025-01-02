@@ -41,5 +41,7 @@ Access real-time updates on the stock of goods available in the assigned ration 
 
 # Technologies Used
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP
+
 Database: MySQL
