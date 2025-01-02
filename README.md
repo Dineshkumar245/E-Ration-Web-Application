@@ -10,6 +10,7 @@ The E-Ration Web Application streamlines the management of ration distribution. 
 The Administrator portal serves as the control hub for managing ration shops across the system.
 
 Features:
+
 *Add Ration Shops:
 Admins can register new ration shops by entering details such as the shop's name and with a password.
 
