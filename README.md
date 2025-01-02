@@ -13,6 +13,7 @@ Features:
 
 *Add Ration Shops:
 Admins can register new ration shops by entering details such as the shop's name and with a password.
+<HR>
 
 2)Ration Shop Employee Portal
 The Employee portal enables shop employees to manage shop-specific operations effectively.
