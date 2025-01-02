@@ -11,20 +11,21 @@ The Administrator portal serves as the control hub for managing ration shops acr
 
 Features:
 
-Add Ration Shops:
+*Add Ration Shops:
 Admins can register new ration shops by entering details such as the shop's name and with a password.
 
 2)Ration Shop Employee Portal
 The Employee portal enables shop employees to manage shop-specific operations effectively.
 
 Features:
-Manage Goods:
+
+*Manage Goods:
 Update the inventory of available goods in the shop.
 
-Citizen Management:
+*Citizen Management:
 Add new citizen details and assign them to the shop for ration distribution.
 
-Mark Absence:
+*Mark Absence:
 Record absence in case of emergencies along with the date.
 
 3)Citizen Portal
@@ -32,10 +33,10 @@ The Citizen portal allows users to check shop and ration-related information.
 
 Features:
 
-Check Worker Presence:
+*Check Worker Presence:
 Verify the availability of shop employees on a given date.
 
-View Goods Availability:
+*View Goods Availability:
 Access real-time updates on the stock of goods available in the assigned ration shop.
 
 # Technologies Used
